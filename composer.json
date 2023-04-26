@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "bignumber\\": ""
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
